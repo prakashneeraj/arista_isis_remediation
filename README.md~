@@ -11,5 +11,3 @@ pip install -U paramiko PyYAML Jinja2 httplib2 six
 
 
 then copy the library files to their directory as path given in the file
-
-then u can run the script
