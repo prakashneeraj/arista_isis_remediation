@@ -1,0 +1,8 @@
+---
+
+- hosts: eos_isis_group
+  gather_facts: no
+  connection: local
+
+  roles:
+    - arista_isis
